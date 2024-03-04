@@ -1,7 +1,7 @@
 {
     "name": "Premys-Launcher",
     "preductname": "Premys Launcher",
-    "version": "2.0.1",
+    "version": "2.0.0",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=false --build=platform",
-        "icon": "node build.js --icon=https://raw.githubusercontent.com/Shaxe972/Premys-Launcher/master/src/assets/images/icon.ico"
+        "icon": "node build.js --icon=https://raw.githubusercontent.com/Shaxe972/Premys-Launcher/master/src/assets/images/icon.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/Shaxe972/Premys-Launcher.git"
     }
 }
