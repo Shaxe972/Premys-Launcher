@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
+        "name": "ShaXe, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
