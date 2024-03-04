@@ -1,13 +1,13 @@
 {
     "name": "Premys-Launcher",
     "preductname": "Premys Launcher",
-    "version": "2.0.0",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "version": "2.0.1",
+    "description": "Launcher pour le Serveur Roleplay Premys",
     "main": "src/app.js",
     "author": {
         "name": "ShaXe, Inc.",
         "email": "contact.premys@gmail.com",
-        "url": "https://github.com/luuxis"
+        "url": "https://github.com/Shaxe972"
     },
     "url": "http://94.23.110.51",
     "scripts": {
