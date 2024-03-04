@@ -1,6 +1,6 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "Premys-Launcher",
+    "preductname": "Premys Launcher",
     "version": "2.0.0",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://launcher.luuxis.fr/launcherSelvania",
+    "url": "http://94.23.110.51",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
