@@ -29,9 +29,9 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "Les Wiremus aiment beaucoup les pinces de crabes !" },
-            { "message": "Pour les Toriiens, le renne est élémentaire !" },
-            { "message": "On dit qu'à Najma les négociations peuvent durer deux jours de suite !"}
+            { "message": "Les Wiremus aiment beaucoup les pinces de crabes !","author":"ShaXe" },
+            { "message": "Pour les Toriiens, le renne est élémentaire !","author":"ShaXe" },
+            { "message": "On dit qu'à Najma les négociations peuvent durer deux jours de suite !","author":"ShaXe"}
         ];
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;
